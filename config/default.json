@@ -1,0 +1,14 @@
+{
+    "mongoURI": "YOUR MONGODB URI",
+    "cosmosURI": "YOUR COSMOSDB URI",
+    "jwtAdminSecret":"YOUR SECRET FOR ADMIN",
+    "jwtClientSecret" :"YOUR SECRET FOR CLIENT",
+    "emailAddress": "YOUR EMAIL ADDRESS",
+    "emailPassword": "YOUR EMAIL PASSWORD",
+    "emailHost": "YOUR EMAIL HOST",
+    "emailPort": 465,
+    "alternativeEmailPort": 587,
+    "mailchimpAPI": "YOUR MAILCHIMP API KEY",
+    "mailchimpServer": "YOUR MAILCHIMP SERVER",
+    "mailchimpListID": "YOUR MAILCHIMP LIST ID"
+}
